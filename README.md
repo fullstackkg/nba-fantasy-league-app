@@ -1,2 +1,2 @@
 # nba-fantasy-league-app
-A Spring Boot application for NBA Fantasy League website
+A full stack application for an NBA Fantasy League website
